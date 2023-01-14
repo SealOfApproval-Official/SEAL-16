@@ -1,0 +1,1 @@
+surface.blit(sealBlock.render("Hello, World!", 0, (255,0,0)), (find_origin_x(),find_origin_y()))
